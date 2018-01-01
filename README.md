@@ -13,7 +13,7 @@ Run the [CryptoBridge](https://github.com/cryptobridge/cryptobridge.github.io) e
 
         npm start
 
-- Visit [localhost:8080](http://localhost:8080) in your web browser
+- Visit [localhost:8080](http://localhost:9111) in your web browser
 
 ## Connecting a wallet
 - After the initial setup is complete, you can connect to the exchange through any of the following methods:
