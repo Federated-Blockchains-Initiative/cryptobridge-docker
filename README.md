@@ -13,7 +13,7 @@ Run the [CryptoBridge](https://github.com/cryptobridge/cryptobridge.github.io) e
 
         npm start
 
-- Visit [localhost:8080](http://localhost:9111) in your web browser
+- Visit [localhost:9111](http://localhost:9111) in your web browser
 
 ## Connecting a wallet
 - When creating an account, a local wallet is generated and stored in your browser
