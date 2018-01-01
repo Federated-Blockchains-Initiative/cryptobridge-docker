@@ -16,7 +16,9 @@ Run the [CryptoBridge](https://github.com/cryptobridge/cryptobridge.github.io) e
 - Visit [localhost:8080](http://localhost:9111) in your web browser
 
 ## Connecting a wallet
-- After the initial setup is complete, you can connect to the exchange through any of the following methods:
-    - Create a wallet for `CryptoBridge` (good)
-    - Use the [MetaMask](https://metamask.io/) browser plugin as a wallet (better)
-    - Use a hardware wallet such as [Treznor](https://trezor.io/) or [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s) (best)
+- When creating an account, a local wallet is generated and stored in your browser
+- The local wallet is encrypted with your password, and will contain your private keys
+- It is important that you backup your local wallet once it has been created
+- It is a good idea to store your cryptocurrency in a hardware wallet such as:
+    - [Treznor](https://trezor.io/)
+    - [Ledger Nano S](https://www.ledgerwallet.com/products/ledger-nano-s)
