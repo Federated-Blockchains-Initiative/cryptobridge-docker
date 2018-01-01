@@ -1,0 +1,22 @@
+{
+  "name": "cryptobridge-docker",
+  "version": "0.0.1",
+  "description": "Run the `CryptoBridge` exchange UI from a Docker container on your local machine.",
+  "main": "start",
+  "scripts": {
+    "build": "npm i &>/dev/null && sudo docker build -t 'cryptobridge:latest' .",
+    "start": "npm run build && sudo docker run -p 9111:8080 -d cryptobridge:latest",
+    "server": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "altcoin",
+    "cryptocurrency",
+    "exchange",
+    "bitcoin",
+    "decentralize"
+  ],
+  "author": "J. Abbott",
+  "license": "MIT",
+  "dependencies": {}
+}
