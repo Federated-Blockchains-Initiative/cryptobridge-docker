@@ -1,6 +1,6 @@
 # [CryptoBridge](https://crypto-bridge.org/) for Docker
 
-Run the [CryptoBridge](https://github.com/cryptobridge/cryptobridge.github.io) exchange UI from a Docker container on your local machine
+Run the [CryptoBridge](https://github.com/cryptobridge/cryptobridge-ui) exchange UI from a Docker container on your local machine
 
 ## Getting started
 
